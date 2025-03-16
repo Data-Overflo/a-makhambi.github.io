@@ -1,0 +1,36 @@
+name: Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main  # Change this if your default branch is different
+
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'  # Adjust this to match your Ruby version
+          bundler-cache: true  # Caches installed gems
+
+      - name: Install Dependencies
+        run: |
+          bundle install
+
+      - name: Build Jekyll Site
+        run: |
+          bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages  # Deploy to the 'gh-pages' branch
+          folder: _site     # Jekyll output directory
