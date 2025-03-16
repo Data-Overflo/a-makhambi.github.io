@@ -9,7 +9,7 @@ header:
 
 
 
-<p> <img src="https://a-makhambi.github.io/assets/images/kilo.jpeg" width="250" class="align-center"> </p>
+<p> <img src="assets/images/kilo.jpeg" width="250" class="align-center"> </p>
 
 <!-- CTA Button for LinkedIn -->
 <p class="text-center"> <a href="https://www.linkedin.com/in/kilo-dlamini-404b811a7/" class="btn btn--info">LinkedIn</a></p>

@@ -1,4 +1,4 @@
-# This portfolio being modified by Sulaiha Subi
+
 
 # Theme Setting
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum", "sunrise"
@@ -10,11 +10,11 @@ title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Amkelani Maliviwe Makhambi"
 description              : "Data Scientist Portfolio"
-url                      : https://a-makhambi.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://a-makhambi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "Data-Overflo" # the subpath of your site, e.g. "/blog"
 repository               : a-makhambi.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# logo                     : "/assets/images/Sulaiha-Subi-white2.png" #"/assets/images/Sulaiha-Subi.png"
+logo                     : "/assets/images/logoki.png" #"/assets/images/Sulaiha-Subi.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -78,7 +78,7 @@ google:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-theme: minimal
+# theme: minimal
 
 theme: jekyll-theme-minimal
 
