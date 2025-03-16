@@ -36,7 +36,7 @@ I also currently collaborating with 47 other AI Engineer from 18 countries for 8
 I am proficient in Python (Pandas, NumPy, OpenCV) programming language and data visualisation with Tableau and Dataiku. I am enjoyed working with large datasets including cleaning, preprocessing, connecting and mining those data. I have alredy worked with few high value use case in Insurance, Marketing and Edge Computing like Drone where I built Random Forest, XGBoost, SVM, Regression and Image Classifiaction. Some of these model developed end-to-end in Dataiku DSS Platform. </p>
 <p style="text-align:justify">
 Projects I worked on include Text Pre-processing for NLP in the documents management system, Integrated Data Intelligence (IDI), and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
-<p class="text-center"><a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
+
 
 My Journey to Data Science
 ---
@@ -82,24 +82,7 @@ Having a background in Computer Science allows me to learn faster and quickly ad
 </ul>
 
 
-Competition
----
 
-<img src="https://community.dataiku.com/t5/image/serverpage/image-id/3235i0C369546705BEB4E/image-size/large?v=v2&amp;px=999" role="button" title="Copy of SOCIAL-Set-General-Photo-1200x400px.jpg" alt="Copy of SOCIAL-Set-General-Photo-1200x400px.jpg" li-image-url="https://community.dataiku.com/t5/image/serverpage/image-id/3235i0C369546705BEB4E?v=v2" li-image-display-id="'3235i0C369546705BEB4E'" li-message-uid="'16117'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false" li-compiled="true"> 
-<p style="text-align:justify">
-I love challenges and collaboration within the Data Science Community and Data Ethusiast. </p>
-<p style="text-align:justify">
-Last July 2021, I was actively participated in <strong>Dataiku Frontrunner Awards</strong> as the only submission presenting the use case from APAC region. I am proudly said that my use case was being published by <a href="https://community.dataiku.com">Dataiku  Community</a></p>
-<p style="text-align:justify">
-More details about the use case, can be read here: <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a></p>
-
-
-Hobbies: Taekwondo & Yoga
----
-<p style="text-align:justify">
-One of the biggest achievment in my life is getting black belt 1st Dan in Taekwondo (Taekwondo Malaysia). Not limited to Taekwondo, I love doing Yoga during my leasure time to increase my flexibility and endurance!</p>
-
-<p><img src="https://sulaihasubi.github.io/assets/images/blackbelt.jpeg" class="align-center"></p>
 
 
 <blockquote>
