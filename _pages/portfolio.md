@@ -11,7 +11,7 @@ title: "Portfolio"
 
 <p>To identify key regions of productivity based on Facial Recognition, People Counting and Duration (the time spent inside the designated regions)</p>
 
-<p><img src="assets/output/Customer.PNG" class="align-center"></p>
+<p><img src="https://a-makhambi.github.io/assets/output/Customer.PNG" class="align-center"></p>
 
 <p>Dwell time for each of detected person</p>
 <p><img src="https://sulaihasubi.github.io/assets/output/a.gif" class="align-center"></p>
