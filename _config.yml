@@ -78,7 +78,9 @@ google:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-theme: minima
+theme: minimal
+
+theme: jekyll-theme-minimal
 
 # Outputting
 permalink: /:categories/:title/
