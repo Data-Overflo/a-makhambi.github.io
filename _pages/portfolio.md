@@ -3,13 +3,19 @@ permalink: /portfolio/
 title: "Portfolio"
 ---
 
-## 🤖 Computer Vision
-###### POC: Face Recognition & People Counting for Productivity Measurement
+## Customer Churn Analysis in Power BI
+###### This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Customer-Churn-and-Risk-Analysis-Dashboard-PowerBI)
 
 
 
-<p>To identify key regions of productivity based on Facial Recognition, People Counting and Duration (the time spent inside the designated regions)</p>
+
+
+<p>
+Key Features:
+📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
+
+📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.</p>
 
 <!-- <p><img src="https://a-makhambi.github.io/assets/output/Customer.PNG" class="align-center"></p> -->
 <img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/Customer.PNG" class="align-center">
