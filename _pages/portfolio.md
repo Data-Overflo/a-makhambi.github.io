@@ -30,52 +30,91 @@ title: "Portfolio"
 
 
 
-###### Call Center Trend Analysis Dashboard (Power BI)
+## 📞 Call Center Trend Analysis Dashboard (Power BI)  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Call-Centre-Trends-Analysis-Dashbaord-PowerBI)
 
+### 📌 Project Overview  
+This project involves building a **Power BI dashboard** for a call center manager, providing insights into **Key Performance Indicators (KPIs)** and trends to enhance operational efficiency.  
 
-<p style="text-align:justify">In this project Create a dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+### 🔑 Key Performance Indicators (KPIs)  
+- 😊 **Overall Customer Satisfaction**  
+- 📞 **Total Calls Answered vs. Abandoned**  
+- ⏰ **Call Volume by Time of Day**  
+- ⚡ **Average Speed of Answer (ASA)**  
+- 🎯 **Agent Performance Metrics**  
+- 📊 **Call Handling Time & Resolution Rate**  
 
-Possible KPIs include (but not limited to):
+### 🛠️ Tools Used  
+- **Power BI Desktop**  
+- **DAX (Data Analysis Expressions)**  
+- **Power Query**  
+- **Excel / CSV Dataset**  
 
-* Overall customer satisfaction
-* Overall calls answered/abandoned
-* Calls by time
-* Average speed of answer</p>
+
+
 
 <p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/call centre.PNG"></p>
 
 
 
 
-## Diversity Inclusion Dashboard(Power BI)
+## 🌍 Diversity & Inclusion Dashboard (Power BI)  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Diversity-Inclusion-Dashboard-PowerBI)  
 
+### 📌 Project Overview  
+This **HR Diversity & Inclusion Analysis** project focuses on designing a **Power BI dashboard** to track and evaluate an organization's diversity initiatives. The dashboard provides insights into key **demographic characteristics** and calculates critical **KPIs** to measure diversity efforts.  
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Diversity-Inclusion-Dashboard-PowerBI) 
+### 🔑 Key Metrics & KPIs  
+- 👥 **Workforce Diversity by Gender, Age, and Nationality**  
+- 📊 **Inclusion Score & Employee Engagement Trends**  
+- 📈 **Representation Across Departments & Job Levels**  
+- ⚖️ **Pay Equity Analysis**  
+- 🔄 **Hiring & Promotion Trends**  
 
-<p style="text-align:justify">In this HR Diversity and Inclusion analysis project, I designed a Power BI dashboard report and formulated measures to define relevant KPIs to track and evaluate the organization's diversity initiatives. I analyzed various demographic characteristics, such as gender, age, nationality and utilized the data to calculate critical metrics to gain valuable insights into the organization's diversity and inclusion efforts.</p>
+### 🛠️ Tools Used  
+- **Power BI Desktop**  
+- **DAX (Data Analysis Expressions)**  
+- **Power Query**  
+- **HR Demographic Datasets (Excel/CSV)**  
+
+ 
+
 <p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/divers.PNG" class="align-center"></p>
 
 
 
 
-## Movie Recommendation System
+# 🎬 Movie Recommendation System  
 
-###### Machine Learning
+### 🤖 Machine Learning  
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Movie-Recco)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Movie-Recco)  
 
-<p style="text-align:justify">
-All entertainment websites or online stores have millions of items. It becomes challenging for the customer to select the right one. At this place, recommender systems come into the picture and help the user to find the right item by minimizing the options.
+## 📌 Project Overview  
+In today's digital era, **Recommendation Systems** play a crucial role in helping users find relevant content. From streaming services like **Netflix** to e-commerce platforms like **Amazon**, these systems personalize user experiences by **predicting preferences** based on historical interactions.  
 
-Recommendation Systems in the world of machine learning have become very popular and are a huge advantage to tech giants like Netflix, Amazon and many more to target their content to a specific audience. These recommendation engines are so strong in their predictions that they can dynamically alter the state of what the user sees on their page based on the user’s interaction with the app.</p>
+This project aims to build a **Collaborative Filtering-based Movie Recommendation System** that predicts user ratings and suggests movies dynamically.  
 
-<p>
-## The business objective for us is:
+## 🎯 Business Objective  
+- 🔍 **Develop a Collaborative Filtering-based recommendation model**  
+- 🎥 **Predict user ratings for movies they haven't watched**  
+- 📉 **Minimize prediction error using RMSE and MAPE metrics**  
 
-** To create a Collaborative Filtering based Movie Recommendation System
-** Predict the rating that a user would give to a movie that he has not yet rated
-** Minimize the difference between predicted and actual rating (RMSE and MAPE) </p>
+## 🔑 Key Features  
+- **Content-based & Collaborative Filtering techniques**  
+- **Personalized movie recommendations**  
+- **Dynamic model updates based on user interactions**  
+- **Evaluation using RMSE (Root Mean Squared Error) and MAPE (Mean Absolute Percentage Error)**  
+
+## 🛠️ Tools & Technologies  
+- **Python** (pandas, NumPy, scikit-learn)  
+- **Machine Learning (Collaborative Filtering, Matrix Factorization)**  
+- **Streamlit** (for interactive UI)  
+ 
+
+
+
+
 <p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/movier.png" class="align-center"></p>
 
 
@@ -84,7 +123,7 @@ Recommendation Systems in the world of machine learning have become very popular
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
-<aside class="sidebar__right ">
+<!-- <aside class="sidebar__right ">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
@@ -106,4 +145,25 @@ Recommendation Systems in the world of machine learning have become very popular
       <li class=""><a href="#fraud-detection-in-customer-transaction">Fraud Detection in Customer Transaction</a></li>
     </ul>
   </li>
-</ul>
+</ul> -->
+
+<aside class="sidebar__right ">
+  <nav class="toc">
+    <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
+    <ul class="toc__menu">
+  
+      <li class=""><a href="#-data-science--analytics">📊 Data Science & Analytics</a>
+        <ul>
+          <li class=""><a href="#customer-churn-analysis-in-power-bi">Customer Churn Analysis (Power BI)</a></li>
+          <li class=""><a href="#call-center-trend-analysis-dashboard-power-bi">Call Center Trend Analysis Dashboard (Power BI)</a></li>
+          <li class=""><a href="#diversity-inclusion-dashboard-power-bi">Diversity & Inclusion Dashboard (Power BI)</a></li>
+        </ul>
+      </li>
+      <li class=""><a href="#-machine-learning">🧠 Machine Learning</a>
+        <ul>
+          <li class=""><a href="#movie-recommendation-system">Movie Recommendation System</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</aside>
