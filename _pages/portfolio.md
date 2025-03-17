@@ -64,57 +64,30 @@ In this notebook, I train a model to detect entities related to oil/petrol from 
 
 For more details, please check it out in my [Github Repository](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy){:target="_blank" rel="noopener"}
 
-## 📈 Data Science
+## Movie Recommendation System
 
-###### Fraud Detection in Insurance Claims
-[![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://community.dataiku.com/t5/user/viewprofilepage/user-id/7023)
-[![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi/insurance-claims-fraud-detection)
+###### Machine Learning
+
+[![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Data-Overflo/Movie-Recco)
 <p style="text-align:justify">
 This predictive model predicts the dataset from auto insurance either the claims is fraudulent or not. This will be a binary classification task and I will demonstrate few auto ML model using Dataiku DSS Platform like Logistic Regression, and Random Forest</p>
 <p style="text-align:justify">
-Based on the prediction data, the model are able to estimate the total predicted fraudulent claims (amounts), and break down the features of this fraudulent by looking fraud count by insured hobbies etc. </p>
+All entertainment websites or online stores have millions/billions of items. It becomes challenging for the customer to select the right one. At this place, recommender systems come into the picture and help the user to find the right item by minimizing the options.
+
+Recommendation Systems in the world of machine learning have become very popular and are a huge advantage to tech giants like Netflix, Amazon and many more to target their content to a specific audience. These recommendation engines are so strong in their predictions that they can dynamically alter the state of what the user sees on their page based on the user’s interaction with the app.
+
+## The business objective for us is:
+
+* To create a Collaborative Filtering based Movie Recommendation System
+* Predict the rating that a user would give to a movie that he has not yet rated
+* Minimize the difference between predicted and actual rating (RMSE and MAPE) </p>
 <p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/movier.png" class="align-center"></p>
 
-The Impact from Fraud Detection ML Model:
-<ul style="text-align:justify">
-<li>Detect and prevent fraud before claims are paid</li>
-<li>Increase the acceptance rate for further investigation resulting in fewer false positives</li>
-<li>Increase the identification of suspicious claims</li>
-</ul>
 
-To read more on how I working on for this ML Model, please check it out in my [Github Repository](https://github.com/sulaihasubi/insurance-claims-fraud-detection){:target="_blank" rel="noopener"}
-
-###### Fraud Detection in Customer Transaction
-[![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://community.dataiku.com/t5/user/viewprofilepage/user-id/7023)
-[![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi/customer-trasanction-fraud-detection)
-[![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)](https://www.kaggle.com/c/ieee-fraud-detection/overview/description)-
-
-
+## This project is deployed Huggingface. You can explore. 
+[![View on Hugging Face](https://img.shields.io/static/v1?style=for-the-badge&message=Hugging+Face&color=FFBF00&logo=Hugging+Face&logoColor=FFFFFF&label=)]
 <p style="text-align:justify">
-In this project, machine learning model will predict the probability an online transaction being fraudulent, as indicated by the binary target <i>isFraud.</i></p>
-
-<p style="text-align:justify">
-The data is divided into two files, identification and transaction, which are linked together by TransactionID. Not all transactions are associated with a unique identifier.</p>
-
-<p><img src="https://sulaihasubi.github.io/assets/output/workflow.png" class="align-center"></p>
-
-<p style="text-align:justify">
-This ML Model developed end-to-end with Dataiku DSS Platform.</p>
-
-<p><img src="https://sulaihasubi.github.io/assets/output/transaction.gif" class="align-center"></p>
-
-
-
-The goal of this ML Model:
-<ul style="text-align:justify">
-<li>Built machine learning models on a challenging large-scale e-commerce transactions dataset</li>
-<li>To help business to reduce fraud loss and increase their revenue</li>
-<li>To provide best solutions for fraud prevention</li>
-</ul>
-
-
-Get to know more about this project by visiting my Github Repo. 
-[Click here!](https://github.com/sulaihasubi/customer-trasanction-fraud-detection){:target="_blank" rel="noopener"}
+[Click here!](https://huggingface.co/spaces/dlaimini/Movies-Recommender){:target="_blank" rel="noopener"}
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
