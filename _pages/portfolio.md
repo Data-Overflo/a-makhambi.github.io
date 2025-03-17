@@ -12,12 +12,14 @@ title: "Portfolio"
 
 
 <p>
-Key Features: <br>
-📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
+Key Features:
 
-<br>📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.</p>
+* Data visualization of customer churn and risk analysis
 
-<!-- <p><img src="https://a-makhambi.github.io/assets/output/Customer.PNG" class="align-center"></p> -->
+* Customer segmentation based on demographic and behavioral factors
+</p>
+
+
 <img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/Customer.PNG" class="align-center">
 
 
@@ -50,29 +52,18 @@ Possible KPIs include (but not limited to):
 <p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/divers.PNG" class="align-center"></p>
 
 
-###### Named Entity Recognition (NER)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy)  [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
 
-<p><img src="https://sulaihasubi.github.io/assets/output/ner.gif" class="align-center"></p>
-
-<p style="text-align:justify">
-The purpose of this notebook is to demonstrate the entire process of name-entity recognition (NER) from start to the end with Spacy. This notebook also explore pattern matching as an alternative to NER when there is a known small set of fixed values.</p>
-<p style="text-align:justify">
-This will be a complete end-to-end demonstration of the entire process, including both labelling and model training.</p>
-<p style="text-align:justify">
-In this notebook, I train a model to detect entities related to oil/petrol from this public dataset which contains a list of emails related to the oil industry. This is an over simplification because we want more generic entities, but it shows how pattern matching is a better alternative than NER in this case. To summarise, we will extract oil-related elements from email messages.</p>
-
-For more details, please check it out in my [Github Repository](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy){:target="_blank" rel="noopener"}
 
 ## Movie Recommendation System
 
 ###### Machine Learning
 
-[![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Data-Overflo/Movie-Recco)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Movie-Recco)
+<!-- [![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Data-Overflo/Movie-Recco) -->
 <p style="text-align:justify">
 This predictive model predicts the dataset from auto insurance either the claims is fraudulent or not. This will be a binary classification task and I will demonstrate few auto ML model using Dataiku DSS Platform like Logistic Regression, and Random Forest</p>
 <p style="text-align:justify">
-All entertainment websites or online stores have millions/billions of items. It becomes challenging for the customer to select the right one. At this place, recommender systems come into the picture and help the user to find the right item by minimizing the options.
+All entertainment websites or online stores have millions of items. It becomes challenging for the customer to select the right one. At this place, recommender systems come into the picture and help the user to find the right item by minimizing the options.
 
 Recommendation Systems in the world of machine learning have become very popular and are a huge advantage to tech giants like Netflix, Amazon and many more to target their content to a specific audience. These recommendation engines are so strong in their predictions that they can dynamically alter the state of what the user sees on their page based on the user’s interaction with the app.
 
@@ -85,9 +76,7 @@ Recommendation Systems in the world of machine learning have become very popular
 
 
 ## This project is deployed Huggingface. You can explore. 
-[![View on Hugging Face](https://img.shields.io/static/v1?style=for-the-badge&message=Hugging+Face&color=FFBF00&logo=Hugging+Face&logoColor=FFFFFF&label=)]
-<p style="text-align:justify">
-[Click here!](https://huggingface.co/spaces/dlaimini/Movies-Recommender){:target="_blank" rel="noopener"}
+[![View on Hugging Face](https://img.shields.io/static/v1?style=for-the-badge&message=Hugging+Face&color=FFBF00&logo=Hugging+Face&logoColor=FFFFFF&label=)](https://huggingface.co/spaces/dlaimini/Movies-Recommender)
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
