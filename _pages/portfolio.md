@@ -12,49 +12,43 @@ title: "Portfolio"
 
 
 <p>
-Key Features:
+Key Features: <br>
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
-📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.</p>
+<br>📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.</p>
 
 <!-- <p><img src="https://a-makhambi.github.io/assets/output/Customer.PNG" class="align-center"></p> -->
 <img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/Customer.PNG" class="align-center">
 
 
-<p>Dwell time for each of detected person</p>
-<p><img src="https://sulaihasubi.github.io/assets/output/a.gif" class="align-center"></p>
-
-Read full project details here:
-[Github Repository](https://github.com/sulaihasubi/Person-Detection-and-Counting){:target="_blank" rel="noopener"}
-
-###### Face Recognition in Java
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Face-Recognition)
-[![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)](https://www.jetbrains.com/idea/)
-
-<p style="text-align:justify">This project will highlight the Face Recognition technique used to detect and recognize faces of individuals where it is involved in capturing people faces from a web camera.  It involves candidates and trainers of CERTIFAI Online CDLE. The individual’s images are categorized into two, which are the faces of trainers or candidates. These images are then saved in the face database. The model then should be able to analyze face’s features and match it with the information in a database and identify who there are.</p>
-<!-- [***Face Recognition with Java***](https://github.com/sulaihasubi/Person-Detection-and-Counting) -->
-<p><img src="https://sulaihasubi.github.io/assets/output/sue1.png" class="align-center"></p>
 
 
-
-## 📖 Natural Language Processing (NLP)
-
-###### Tokenization with spaCy
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)  [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
-
-<p style="text-align:justify">Below Image shows the Tokenization process take place in spaCy NLP pipelines. Image credited to spaCy.</p>
-<p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
-
-<p style="text-align:justify">RiseHill Data Analysis's SaaS Product: Integrated Data Intelligence (IDI).</p>
+###### Call Center Trend Analysis Dashboard (Power BI)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Call-Centre-Trends-Analysis-Dashbaord-PowerBI)
 
 
-<p><img src="https://sulaihasubi.github.io/assets/output/idi.png" class="align-center"></p>
-<p style="text-align:justify">
-Image above shows how my application of NLP (cleaned texts) helps for instant browsing of documents that retrieve & full traceability to original documents.
-</p>
+<p style="text-align:justify">In this project Create a dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
-For more details, please check it out in my [Github Repository](https://github.com/sulaihasubi/tokenization-spaCy){:target="_blank" rel="noopener"}
+Possible KPIs include (but not limited to):
+
+* Overall customer satisfaction
+* Overall calls answered/abandoned
+* Calls by time
+* Average speed of answer</p>
+
+<p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/call centre.PNG"></p>
+
+
+
+
+## Diversity Inclusion Dashboard(Power BI)
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Data-Overflo/Diversity-Inclusion-Dashboard-PowerBI) 
+
+<p style="text-align:justify">In this HR Diversity and Inclusion analysis project, I designed a Power BI dashboard report and formulated measures to define relevant KPIs to track and evaluate the organization's diversity initiatives. I analyzed various demographic characteristics, such as gender, age, nationality and utilized the data to calculate critical metrics to gain valuable insights into the organization's diversity and inclusion efforts.</p>
+<p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/divers.PNG" class="align-center"></p>
+
 
 ###### Named Entity Recognition (NER)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy)  [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
@@ -79,7 +73,7 @@ For more details, please check it out in my [Github Repository](https://github.c
 This predictive model predicts the dataset from auto insurance either the claims is fraudulent or not. This will be a binary classification task and I will demonstrate few auto ML model using Dataiku DSS Platform like Logistic Regression, and Random Forest</p>
 <p style="text-align:justify">
 Based on the prediction data, the model are able to estimate the total predicted fraudulent claims (amounts), and break down the features of this fraudulent by looking fraud count by insured hobbies etc. </p>
-<p><img src="https://sulaihasubi.github.io/assets/output/insurance.gif" class="align-center"></p>
+<p><img src="https://raw.githubusercontent.com/Data-Overflo/a-makhambi.github.io/main/assets/output/movier.png" class="align-center"></p>
 
 The Impact from Fraud Detection ML Model:
 <ul style="text-align:justify">
