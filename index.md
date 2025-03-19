@@ -33,25 +33,20 @@ Feel free to <a href="https://www.linkedin.com/in/kilo-dlamini-404b811a7/">conta
 
 👩🏻‍🔬 What I Possess as a Data Scientist
 ---
-<p style="text-align:justify">
-Personally, domain knwoledge and the ability to learn on the fly really far more valuable than on a book understanding of machine learning algorithms. The good things I possess as a Data Scientist are:-
+Having a background in Sofware Development allows me to learn faster and quickly adapt into the trends of technology. Some of my core competencies include:-
 </p>
-
 <ul style="text-align:justify">
-  <li>The ability to built robustly simple models that generalise effectively on out-of-sample data.</li>
-  <li>Machine Learning models not always or must be a complicated model</li>
-  <li>Capability and desire to express complex issues in a simple and transparent manner</li>
-  <li>Be detailed oriented and understanding on how to drive a business competitive</li>
-  <li>Be a strong analytical thinker with problem-solving and presentation skills</li>
+  <li>Cleaning and transforming data with Python libraries (Pandas, Numpy)</li>
+  <li>Data Preprocessing (One-Hot Encoding, Feature Scaling, Data Normalization, Dealing with Missing Values)</li>
+  <li>Data Visualizations and Exploratory Data Analysis (EDA) with Power BI and Notebook</li>
+  <li>Advanced Deep Learning for Computer Vision & Natural Language Processing (NLP)</li>
+  <li>Training Machine Learning models using best practices (including train/val/test splits, class balance, outlier detection/removal)</li>
+  <li>Knowledge in machine/deep learning, optimization, probability theory, and statistical inference</li>
+  <li>Hyperparameters tuning</li>
+  <li>End-to-end Machine Learning pipelines</li>
+  <li>Knowledge in Cloud Computing like AWS EC2, Azure</li>
+  <li>Database Management like SQL</li>
 </ul>
-
-
-✍🏻 Keywords
----
-<p style="text-align:justify">
-Python (Pandas, Numpy, Matplotlib, OpenCV), Data Cleaning, Data Visualization (Dataiku, Tableau), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Advanced Machine Learning (Linear Regression, Classification, Clustering etc.), Deep Learning (NN, CNN, etc) Probability/Statistics, Natural Language Processing (NLP), Computer Vision, Cloud Computing (AWS EC2) </p>
-<p style="text-align:justify">
-I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, hybrid, remote or freelance.</p>
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->

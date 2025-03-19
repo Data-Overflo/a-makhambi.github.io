@@ -122,30 +122,6 @@ This project aims to build a **Collaborative Filtering-based Movie Recommendatio
 [![View on Hugging Face](https://img.shields.io/static/v1?style=for-the-badge&message=Hugging+Face&color=FFBF00&logo=Hugging+Face&logoColor=FFFFFF&label=)](https://huggingface.co/spaces/dlaimini/Movies-Recommender)
 
 
-<!-- This is for Sidebar Menu on the Rigth Side -->
-<!-- <aside class="sidebar__right ">
-            <nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
-              <ul class="toc__menu">
-  <li class=""><a href="#-computer-vision">🤖 Computer Vision</a>
-    <ul>
-      <li class=""><a href="#poc-face-recognition--people-counting-for-productivity-measurement">POC: Face Recognition & People Counting for Productivity Measurement</a></li>
-      <li class=""><a href="#face-recognition-in-java">Face Recognition in Java</a></li>
-    </ul>
-  </li>
-  <li class=""><a href="#-natural-language-processing-nlp">📖 Natural Language Processing</a>
-    <ul>
-      <li class=""><a href="#tokenization-with-spacy">Tokenization with Spacy</a></li>
-      <li class=""><a href="#named-entity-recognition-ner">Named Entity Recognition (NER)</a></li>
-    </ul>
-  </li>
-  <li class=""><a href="#-data-science">📈 Data Science</a>
-    <ul>
-      <li class=""><a href="#fraud-detection-in-insurance-claims">Fraud Detection in Insurance Claims</a></li>
-      <li class=""><a href="#fraud-detection-in-customer-transaction">Fraud Detection in Customer Transaction</a></li>
-    </ul>
-  </li>
-</ul> -->
 
 <aside class="sidebar__right ">
   <nav class="toc">
