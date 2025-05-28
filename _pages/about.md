@@ -73,5 +73,4 @@ Having a background in Sofware Development allows me to learn faster and quickly
   <li class=""><a href="#my-background">My Background</a></li>
   <li class=""><a href="#my-journey-to-data-science">My Journey to Data Science</a></li>
   <li class=""><a href="#my-data-science-skills">My Data Science Skills</a></li>
-  <li class=""><a href="#competition">Competition</a></li>
-  <li class=""><a href="#hobbies-taekwondo--yoga">Hobbies: Taekwondo & Yoga</a>
+
