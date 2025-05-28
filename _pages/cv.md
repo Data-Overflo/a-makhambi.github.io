@@ -33,7 +33,7 @@ Aspiring software engineer and data specialist with solid experience in data ana
 <h4 style="text-align:left;">Internships & Training<span style="float:right;">South Africa</span></h4>
 <p style="text-align:left;"><em>Junior Software Developer & Data Intern<span style="float:right;">2021 – 2022</span></em></p>
 <ul style="text-align:justify">
-  <li>Completed training in software development fundamentals and data science through NQF5 programs</li>
+
   <li>Worked on backend features using Python and Java</li>
   <li>Explored AI-driven predictive modeling, including time series and classification models</li>
 </ul>
